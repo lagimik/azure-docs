@@ -49,8 +49,7 @@ The approach includes:
 
  
 
-![Enrollment and Subscription](./enrollement-subcriptions-model.png){width="14.822916666666666in"
-height="9.666666666666666in"}
+![Enrollment and Subscription](./enrollement-subcriptions-model.png)
 
  
 
