@@ -6,8 +6,6 @@
 Description
 ===========
 
->  
->
 > An organization's Microsoft **enterprise agreement** is the
 > cornerstone of an organization\'s Azure administration and governance
 > and allows for subdivisions into **Azure Departments, Azure Accounts,
