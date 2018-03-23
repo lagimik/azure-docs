@@ -21,13 +21,8 @@ Description
 >
 >  
 >
-> ![Machine generated alternative text: Enterprise Administrator (2)
-> Enterprise Enrollment Department Administrator (2) Department Account
-> Owner(l) Account Subscription Service Administrator(n) Account
-> Subscription Department Account Subscription Subscription
-> ](media/image2.png){width="17.083333333333332in"
-> height="7.520833333333333in"}
->
+![Enrollment and Subscription](./enrollement-subcriptions-model.png)
+
 >  
 >
 > To administer your Microsoft Azure services under your enrollment,

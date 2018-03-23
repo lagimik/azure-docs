@@ -24,26 +24,26 @@ The approach includes:
 
  
 
-1.  **[Account/Enterprise Agreement](.\enrollment-and-subscription-management-enterprise-agreement.md):** 
+1.  **[Account/Enterprise Agreement](./enrollment-and-subscription-management-enterprise-agreement.md):** 
     > Define the Azure Enterprise Administrative roles
 
 2.  **[Subscriptions](C:\Users\mamoris\Documents\Dev\enrollment-and-subscription-management-subscription.md):** 
     > Once the roles are defined, you design your subscription model
 
-3.  **[Resource Groups](.\enrollment-and-subscription-management-resource-groups.md):** 
+3.  **[Resource Groups](./enrollment-and-subscription-management-resource-groups.md):** 
     > Design the resource groups which logically group resources that
     > are alike and/or by function, and/or by geography and/or by
     > workload
 
-4.  **[Naming Standards and Tags](.\enrollment-and-subscription-management-naming-standards-and-tags.md):**
+4.  **[Naming Standards and Tags](./enrollment-and-subscription-management-naming-standards-and-tags.md):**
     > to cohesively categorize Azure resources for the purpose of
     > security auditing, chargeback, and show-back
 
-5.  **[Resource Policies & Locks](.\enrollment-and-subscription-management-resource-policies-locks.md):**
+5.  **[Resource Policies & Locks](./enrollment-and-subscription-management-resource-policies-locks.md):**
     > These are the governance controls that regulate how organizations
     > manage their Azure resources
 
-6.  **[Role-based access Control (RBAC)**](.\enrollment-and-subscription-management-rbac.md():**
+6.  **[Role-based access Control (RBAC)**](./enrollment-and-subscription-management-rbac.md():**
     > who can do what and where \-\-- Azure permissions
 
  
