@@ -31,13 +31,10 @@ make the most sense for organizing your subscription.
  
 
  
+![Enrollment and Subscription](./enrollement-subcriptions-model.png)
 
-![Machine generated alternative text: Account /Enterprise Agreement
-Subscriptions Resource Groups Naming Standards and Tags Resource
-Policies & Locks RBAC ](media/image1.png){width="14.822916666666666in"
-height="9.666666666666666in"}
+ 
 
- 
 
  
 
@@ -149,36 +146,28 @@ Next Steps
 
  
 
-1.  [Azure Tags
-    > Guide](onenote:#4.1%20Azure%20Tags%20Guide&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={56A9DB2F-CE2A-428A-959B-B73AF1698066}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one):
+1.  [Azure Tags Guide]()):
     > apply tags to resources
 
-2.  [Resources
-    > Groups](onenote:#3.%20Resources%20Groups&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={1B2519F5-B81D-41E3-B9AC-310A1B283B95}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one):
+2.  [Resources Groups]( ):
     > Understand resource groups.
 
-3.  [Resource Group
-    > Guide](onenote:#3.1%20Resource%20Group%20Guide&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={2AC7027D-425B-4E49-8277-74839996B14B}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one):
+3.  [Resource Group Guide]( ):
     > define the resource group model and create resource groups.
 
-4.  [Resource Policies &
-    > Locks](onenote:#5.%20Resource%20Policies%20%20Locks&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={AD0DDA49-0776-4D62-AEDA-CECF6DAEFC15}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one):
+4.  [Resource Policies & Locks]( ):
     > understand resource policies and locks
 
-5.  [Resource Policy
-    > Guide](onenote:#5.1%20Resource%20Policy%20Guide&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={8E2F169A-92DF-46ED-97E3-2F0BA82EC91A}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one):
+5.  [Resource Policy Guide]( ):
     > create and apply resource policies
 
-6.  [Resource Locks
-    > Guide](onenote:#5.2%20Resource%20Locks%20Guide&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={E66C50A2-F1B0-4DF5-A582-2B7C6781439B}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one):
+6.  [Resource Locks Guide]():
     > create resource locks
 
-7.  [Role-based Access Control
-    > (RBAC)](onenote:#6.%20Role-based%20Access%20Control%20(RBAC)&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={41D957D8-E5EA-4217-BC3D-F87C799A7163}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one):
+7.  [Role-based Access Control (RBAC)]():
     > learn about Azure RBAC
 
-8.  [Azure Roles
-    > Guide](onenote:#6.1%20Azure%20Roles%20Guide&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={92943F76-474F-4382-8A19-0EF585B75266}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one):
+8.  [Azure Roles Guide]():
     > apply roles
 
  

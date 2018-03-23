@@ -1,7 +1,6 @@
 
- 1\. Account/Enterprise Agreement
-
-=
+Account/Enterprise Agreement
+============================
 
 Description
 ===========
@@ -81,25 +80,20 @@ Proven Practices
 Next Steps
 ==========
 
-1.  [Enterprise
-    > Administrators](onenote:#1.1%20Enterprise%20Enrollment&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={BC0ED44A-7629-41AD-A121-D4D4304841F6}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one);
+1.  [Enterprise Administrators]();
     > Activate enrollment and assign enterprise administrators
 
-2.  [Department
-    > Administrators](onenote:#1.2%20Departments&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={53AE0263-490E-460A-AFE6-C88B3CF42304}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one);
+2.  [Department administrators]();
     > Select a department model, create initial departments and assign
     > administrators
 
-3.  [Account
-    > Owners](onenote:#1.3%20Accounts&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={482CCEB4-ADC8-490D-9662-318BA2C25BCB}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one);
+3.  [Account Owners]();
     > Select an account model, create accounts and assign account owners
 
-4.  [Service
-    > Administrators](onenote:#1.4%20Service%20Administrator%20Guide&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={B8E8D99D-245A-4A1A-BBB3-E1FDAAADF292}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one):
+4.  [Service Administrators]():
     > Assign service administrators
 
-5.  [Governing Privileged
-    > Accounts](onenote:#1.5%20Governing%20Privileged%20Accounts%20Across%20Azure%20Portals&section-id={CE521654-5403-4F18-B2B2-A7C88AFF99EE}&page-id={A9C7429F-EC2B-4C7E-8CF4-14B9CB9DB8D4}&end&base-path=https://microsoft.sharepoint.com/teams/AzureAccelerationTeam/SiteAssets/Azure%20Acceleration%20Team%20Notebook/Azure%20Subscription%20Design%20Tree%20v0.9.one):
+5.  [Governing Privileged Accounts]():
     > Understand how to managed access to Azure privileged
     > administration accounts.
 
@@ -108,10 +102,8 @@ Next Steps
 Additional Information
 ======================
 
- 
 
--   [Onboarding Guide to the Microsoft Azure Enterprise Portal (Direct
-    > Enrollment)](https://eaportalonboardingvideos.blob.core.windows.net/onboardingvideos/AzureDirectEACustomerOnboardingGuide_En.pdf)
+-   [Onboarding Guide to the Microsoft Azure Enterprise Portal (DirectEnrollment)](https://eaportalonboardingvideos.blob.core.windows.net/onboardingvideos/AzureDirectEACustomerOnboardingGuide_En.pdf)
 
  
 
