@@ -22,8 +22,7 @@ inadvertently deleting or modifying critical resources.
 
  
 
-![Enrollment and Subscription](./enrollement-subcriptions-model.png)
-
+![Enrollment and Subscription](./enrollment-subcriptions-model.png)
 
  
 =

@@ -31,9 +31,8 @@ make the most sense for organizing your subscription.
  
 
  
-![Enrollment and Subscription](./enrollement-subcriptions-model.png)
+![Enrollment and Subscription](./enrollment-subcriptions-model.png)
 
- 
 
 
  

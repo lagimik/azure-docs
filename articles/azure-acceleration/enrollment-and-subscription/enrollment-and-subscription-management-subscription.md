@@ -20,8 +20,7 @@ increases.
 
 A subscription additionally forms a top-level ***billing unit***.
 
- 
-![Enrollment and Subscription](./enrollement-subcriptions-model.png)
+![Enrollment and Subscription](./enrollment-subcriptions-model.png)
 
  
 >  

@@ -48,7 +48,7 @@ The approach includes:
 
  
 
-![Enrollment and Subscription](./enrollement-subcriptions-model.png)
+![Enrollment and Subscription](./enrollment-subcriptions-model.png)
 
  
 
